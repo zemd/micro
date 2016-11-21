@@ -2,7 +2,7 @@
   "name": "zemd/micro",
   "type": "library",
   "description": "Microservices router and handler component",
-  "keywords": [],
+  "keywords": ["microservices", "api", "endpoints", "handler"],
   "homepage": "https://reactive.world",
   "license": "MIT",
   "authors": [
